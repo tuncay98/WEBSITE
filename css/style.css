@@ -9,7 +9,7 @@ background: white;
 }
 #header .begin{
     background: white;
-    height: 64px;
+    height: 160px;
     padding: 20px 0;
 }
 #header .head{
@@ -59,8 +59,9 @@ background: white;
 
 /*#Header .head Start Point*/
 #header .head{
-    position: relative;
+    position: absolute;
     z-index: 555;
+    top: 66px;
 }
 .head .col-6{
 color: white;
