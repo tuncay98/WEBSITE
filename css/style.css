@@ -58,6 +58,10 @@ background: white;
 /*#Header .begin End Point*/
 
 /*#Header .head Start Point*/
+#header .head{
+    position: relative;
+    z-index: 555;
+}
 .head .col-6{
 color: white;
 height: 69px;
